@@ -1,16 +1,11 @@
 # 100 Days Of Code - Log
 
-## Day 0: January 01, 2017
+## Day 0: January 09, 2017
 
-**Today's Progress**: Finally finished Mr. Hop endless runner tutorial. Finished up Jekyll course from TreeHouse
+**Today's Progress**: Implemented search in Hack ID Jekyll site
 
-**Thoughts:** Good to get back into the Zenva course. Hoping to finish up in the next two or three months.
+**Thoughts:** Started off from a tutorial (which I cited!), but there was work to do in styling the search results the way I wanted. Looks good! Last thing will be to style the search box in the navbar, so it doesn't break it.
 
-**Link to work:** [My Learn Zenva Repo](https://github.com/anthkris/learnPhaserZenva)
+**Link to work:** [Hack ID Repo](https://github.com/hackid/hackid.github.io/tree/search-box)
 
-## Day 1: January 02, 2017
-**Today's Progress**: Began platformer level in Zenva course
-
-**Thoughts:** Made me think about creating business around creating learning games. Consulting wouldn't be so bad if I was making game ;)
-
-**Link to work:** [My Learn Zenva Repo](https://github.com/anthkris/learnPhaserZenva)
+## Day 1: January 10, 2017
