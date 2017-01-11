@@ -9,3 +9,8 @@
 **Link to work:** [Hack ID Repo](https://github.com/hackid/hackid.github.io/tree/search-box)
 
 ## Day 1: January 10, 2017
+**Today's Progress**: Finished and merged search feature in Hack ID site
+
+**Thoughts:** Really pleased with the way it turned out. Also made some minor other updates. This marks my first merge by myself! Also learned to stash then apply stash to new branch in the case where I realize I need a new branch for saved but uncommited changes. See this stack overflow question [Git: Create a branch from unstaged/uncommited changes on master](http://stackoverflow.com/questions/2569459/git-create-a-branch-from-unstaged-uncommited-changes-on-master).
+
+**Link to work:** [Hack ID Repo](https://github.com/hackid/hackid.github.io/tree/search-box)
