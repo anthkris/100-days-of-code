@@ -21,3 +21,10 @@
 **Thoughts:** I dove straight back into the other open source project I contribute to, Oppia. It was a nice, small CSS issue (though it still caused me a bit of trouble), so I was able to make a PR today.
 
 **Link to work:** [Oppia PR](https://github.com/oppia/oppia/pull/2917)
+
+## Day 3: January 12, 2017
+**Today's Progress**: Code Wars Kata Practice
+
+**Thoughts:** I only finished one or two kata before getting stuck! I'd forgotten about Code Wars until I saw it in someone else's 100 Days of Code log. It's good for me to get back to practicing these sorts of things.
+
+**Link to work:** [My Code Wars Profile](https://www.codewars.com/users/anthkris)
