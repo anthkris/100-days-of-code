@@ -25,6 +25,6 @@
 ## Day 3: January 12, 2017
 **Today's Progress**: Code Wars Kata Practice
 
-**Thoughts:** I only finished one or two kata before getting stuck! I'd forgotten about Code Wars until I saw it in someone else's 100 Days of Code log. It's good for me to get back to practicing these sorts of things.
+**Thoughts:** I only finished one or two kata before getting stuck! I'd forgotten about Code Wars until I saw it in someone else's 100 Days of Code log. It's good for me to get back to practicing these sorts of things. I'm finding that my code is verbose when compared to many of the other solutions. I should probably take more time to look closely at them and try and copy their use of functions like map and slice.
 
 **Link to work:** [My Code Wars Profile](https://www.codewars.com/users/anthkris)
