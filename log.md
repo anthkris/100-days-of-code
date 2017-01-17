@@ -35,3 +35,17 @@
 **Thoughts:** I only finished one kata today. It's really good to be discovering my limitations with algorithms. I need to practice even MOAR.
 
 **Link to work:** [My Code Wars Profile](https://www.codewars.com/users/anthkris)
+
+## Day 5: January 15, 2017
+**Today's Progress**: Started Accessibility Audit and Another Tiny Game.
+
+**Thoughts:** Missed yesterday :-( But, I realized that I really, really want to make the transition to developer. So I'll be starting technical interview practice soon! Today, I began a big accessibility audit for the Oppia project. My mentor there is awesome! I'm happy to improve my own knowledge with accessibility because I do think it's fundamental. Also, able to get back into game dev. I'm working on a tiny infinite scroller game with Phaser.
+
+**Link to work:** [Oppia Issue](https://github.com/oppia/oppia/issues/2862) | [New Game](https://github.com/anthkris/supply-run)
+
+## Day 6: January 16, 2017
+**Today's Progress**: Continued with accessibility audit and tiny game
+
+**Thoughts:** Still working my way through my Supply run infinite scroller game. Having some serious trouble with sprite bodies and collision. But I did get the game to the point where it's starting to look right. Inspiration for the feel comes from jetpack joyride.
+
+**Link to work:** [Oppia Issue](https://github.com/oppia/oppia/issues/2862) | [New Game](https://github.com/anthkris/supply-run)
