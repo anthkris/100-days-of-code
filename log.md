@@ -49,3 +49,10 @@
 **Thoughts:** Still working my way through my Supply run infinite scroller game. Having some serious trouble with sprite bodies and collision. But I did get the game to the point where it's starting to look right. Inspiration for the feel comes from jetpack joyride.
 
 **Link to work:** [Oppia Issue](https://github.com/oppia/oppia/issues/2862) | [New Game](https://github.com/anthkris/supply-run)
+
+## Day 7: January 17, 2017
+**Today's Progress**: Finished accessibility audit Oppia project, continued tiny game, and started on tech interview practice
+
+**Thoughts:** Still working my way through my Supply run infinite scroller game. I'm slowly but surely fixing issues as they come up. However, I started on the interview Cake curriculum and I just keep realizing how much I stink at this. But I'm determined to start looking for that coding job in 3 months... I'm excited and freaked out!
+
+**Link to work:** [Oppia Issue](https://github.com/oppia/oppia/issues/2862) | [New Game](https://github.com/anthkris/supply-run)
