@@ -56,3 +56,10 @@
 **Thoughts:** Still working my way through my Supply run infinite scroller game. I'm slowly but surely fixing issues as they come up. However, I started on the interview Cake curriculum and I just keep realizing how much I stink at this. But I'm determined to start looking for that coding job in 3 months... I'm excited and freaked out!
 
 **Link to work:** [Oppia Issue](https://github.com/oppia/oppia/issues/2862) | [New Game](https://github.com/anthkris/supply-run)
+
+## Day 8: January 18, 2017
+**Today's Progress**: Continuing tech interview practice and tiny game
+
+**Thoughts:** Started in earnest on the tech interview practice. I am SOOO frustrated! I feel stupid! It's not fun.
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
