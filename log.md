@@ -60,6 +60,13 @@
 ## Day 8: January 18, 2017
 **Today's Progress**: Continuing tech interview practice and tiny game
 
-**Thoughts:** Started in earnest on the tech interview practice. I am SOOO frustrated! I feel stupid! It's not fun.
+**Thoughts:** Started in earnest on the tech interview practice. I am SOOO frustrated! I feel stupid! It's not fun. On a positive note, I seem to have solved a niggling issue in my Supply Run infinite runner game.
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
+
+## Day 8: January 19, 2017
+**Today's Progress**: Continuing tech interview practice and tiny game
+
+**Thoughts:** The Interview Cake flow is really good. Just as I was feeling frustrated, he sent an email that validates that feeling and encourages you to keep going. Also helps that I'm reading Thinking Fast and Slow and today's chapter was sorta about hacking your mind through system 1. So I got through one problem. Still having issues with my tiny game. I think I need to reorg the code and take it one step at a time. There are too many variables right now.
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
