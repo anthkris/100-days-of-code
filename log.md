@@ -70,3 +70,12 @@
 **Thoughts:** The Interview Cake flow is really good. Just as I was feeling frustrated, he sent an email that validates that feeling and encourages you to keep going. Also helps that I'm reading Thinking Fast and Slow and today's chapter was sorta about hacking your mind through system 1. So I got through one problem. Still having issues with my tiny game. I think I need to reorg the code and take it one step at a time. There are too many variables right now.
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
+
+## Day 9: January 20, 2017
+**Today's Progress**: Continuing tech interview practice and tiny game
+
+**Thoughts:** I was (am) still feeling a bit stupid in terms of algorithms. But I did feel a bit better when I looked up Front-End developer interview questions and realized that the questions I was preparing for were more engineering focused. So I have a new study plan to prepare for front-end dev positions! I still think my algorithm practice needs to improve a TON. So part of my plan will be to stick to the two lower levels of CodeKata for the next couple of weeks. Then struggle back through to my current rank, while also continuing to go through the Interview Cake course, but with more of an eye towards learning instead of trying to solve it. I will say that, in today's practice, I incorporated several of the things I've learned so far in Interview cake about how to think through my solution and optomize for time and space effeciency.
+
+I made several issues for my game to try and get better handle on what I'm trying to fix.
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
