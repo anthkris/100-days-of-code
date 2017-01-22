@@ -79,3 +79,12 @@
 I made several issues for my game to try and get better handle on what I'm trying to fix.
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
+
+## Day 10: January 21, 2017
+**Today's Progress**: Continuing tech interview practice and tiny game
+
+**Thoughts:** Breaking down my game issues has really worked. I've been able to fix enemy spawning issues today. Also did two kata on CodeWars. Previously, I mentioned that my code seemed more verbose. After doing a couple of the problems on Interview Cake, I'm finding myself focusing more on comparing whether or not anyone's answer is more efficient or whether they actually performed a different action, as opposed to making their code shorter or less verbose. I'm heartened to find so far that even though other people's code is shorter (like one line), it doesn't necessarily behave any different or any better.
+
+Last but not least, I finished a bundled PR for the Oppia project for several trivial issues related to accessibility. Hope to get in another PR of bundled fixes tomorrow. I'm the new Accessibility Czarina!
+
+**Link to work:** [Oppia](https://github.com/oppia/oppia/pull/2957) | [Supply Run Game](https://github.com/anthkris/supply-run)
