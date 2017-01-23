@@ -88,3 +88,12 @@ I made several issues for my game to try and get better handle on what I'm tryin
 Last but not least, I finished a bundled PR for the Oppia project for several trivial issues related to accessibility. Hope to get in another PR of bundled fixes tomorrow. I'm the new Accessibility Czarina!
 
 **Link to work:** [Oppia](https://github.com/oppia/oppia/pull/2957) | [Supply Run Game](https://github.com/anthkris/supply-run)
+
+## Day 10: January 22, 2017
+**Today's Progress**: Continuing tiny game, and Oppia accessibility project
+
+**Thoughts:** Didn't do code kata today; I spent the majority of my coding time working on my tiny game. I was able to get through speeding up the game levels over time, which is HUGE, but I noticed that my player falls through the rest of the tile, instead of colliding with the side (like a real wall). Ideally, I'd like to hit the side, but I'm having quite a lot of trouble making that work.
+
+I also fixed some more minor accessibility issues for Oppia but I want to double check before I send in a PR.
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
