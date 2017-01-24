@@ -89,7 +89,7 @@ Last but not least, I finished a bundled PR for the Oppia project for several tr
 
 **Link to work:** [Oppia](https://github.com/oppia/oppia/pull/2957) | [Supply Run Game](https://github.com/anthkris/supply-run)
 
-## Day 10: January 22, 2017
+## Day 11: January 22, 2017
 **Today's Progress**: Continuing tiny game, and Oppia accessibility project
 
 **Thoughts:** Didn't do code kata today; I spent the majority of my coding time working on my tiny game. I was able to get through speeding up the game levels over time, which is HUGE, but I noticed that my player falls through the rest of the tile, instead of colliding with the side (like a real wall). Ideally, I'd like to hit the side, but I'm having quite a lot of trouble making that work.
@@ -97,3 +97,10 @@ Last but not least, I finished a bundled PR for the Oppia project for several tr
 I also fixed some more minor accessibility issues for Oppia but I want to double check before I send in a PR.
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
+
+## Day 12: January 23, 2017
+**Today's Progress**: Continuing tiny game, code kata, and Oppia accessibility project
+
+**Thoughts:** Really proud of one of the kata I did today. I began with a solution that was O(2n) and whittled it down to O(n)! It was awesome! My tiny game continues to make little strides. But there are still bugs that I'm having trouble squashing. Not sure if I'll be able to ship it by the end of the month. In other news, helping Oppia become more accessible is going well.
+
+**Link to work:** [Oppia](https://github.com/oppia/oppia/pull/2959) | [Supply Run Game](https://github.com/anthkris/supply-run)
