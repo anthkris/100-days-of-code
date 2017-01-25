@@ -104,3 +104,10 @@ I also fixed some more minor accessibility issues for Oppia but I want to double
 **Thoughts:** Really proud of one of the kata I did today. I began with a solution that was O(2n) and whittled it down to O(n)! It was awesome! My tiny game continues to make little strides. But there are still bugs that I'm having trouble squashing. Not sure if I'll be able to ship it by the end of the month. In other news, helping Oppia become more accessible is going well.
 
 **Link to work:** [Oppia](https://github.com/oppia/oppia/pull/2959) | [Supply Run Game](https://github.com/anthkris/supply-run)
+
+## Day 13: January 24, 2017
+**Today's Progress**: Continuing tiny game, code kata, and Oppia accessibility project
+
+**Thoughts:** Two steps forwards, one step back! The tiny game is getting difficult now and I haven't been able to make good progress on new features. It seems like these are fairly mundane game things, but I haven't been able to find answers to my questions, so that stinks. In other news, the kata today were pretty good!
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run) | [My Code Wars Profile](https://www.codewars.com/users/anthkris)
