@@ -111,3 +111,12 @@ I also fixed some more minor accessibility issues for Oppia but I want to double
 **Thoughts:** Two steps forwards, one step back! The tiny game is getting difficult now and I haven't been able to make good progress on new features. It seems like these are fairly mundane game things, but I haven't been able to find answers to my questions, so that stinks. In other news, the kata today were pretty good!
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run) | [My Code Wars Profile](https://www.codewars.com/users/anthkris)
+
+## Day 14: January 25, 2017
+**Today's Progress**: Continuing tiny game
+
+**Thoughts:** Caught myself up in making some good progress on my tiny game, which meant I neglected other things. Two persistent problems are enemy sprites that glide along the floor and my player constantly moving, imperceptibly forwards and backwards.
+
+MUST FIX!
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
