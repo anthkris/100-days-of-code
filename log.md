@@ -120,3 +120,10 @@ I also fixed some more minor accessibility issues for Oppia but I want to double
 MUST FIX!
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
+
+## Day 15: January 26, 2017
+**Today's Progress**: Continuing tiny game
+
+**Thoughts:** Still neglecting Oppia; but I'll get some work done on it this weekend (promise!). I do believe I may have taken a step towards solving my game issues. I removed the places where I set the enemy velocity to 0. This seems to have handled the gliding issue, but I need more testing. Also, perhaps, it may have handled the player movement issue... but, yeah, more testing.
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
