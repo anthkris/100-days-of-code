@@ -134,3 +134,12 @@ MUST FIX!
 **Thoughts:** Tiny game is still glitchy. I think it may be time to start over.... Ugh. But I did submit another PR on Oppia for link issues.
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run) | [Oppia](https://github.com/oppia/oppia/pull/2983)
+
+## Day 17: January 28, 2017
+**Today's Progress**: Oppia PR accepted; Hack ID, and tiny game
+
+**Thoughts:** Went to a great meetup today! Girls Coding Club. While there, I tackled some minor issues with my last Oppia commit and it got merged so I'm that much closer to wrapping up the basic accessibility updates. I also fixed some basic accessibility issues with Hack ID and pushed those live. Filed another issue, as well. 
+
+AND, talking through my problem with my tiny game, we isolated it to the jumping. Soooo... I was prepared to take the plunge this evening when I got home to try the other method, where only the player moves. I'd been dreading a complete refactor, but, after actually taking a good look at the methods in the Endless Runner book, I was able to successfully switch to the new methodology with a few relatively simple changes. The biggest hurdle I had to jump (pun intended?) was to figure out how to get my platforms to continue generating, now that the world bounds were no longer the measure. I ended up altering that check in update to check whether or not the last tile in a platform was in camera view. Then I updated the createPlatform method to create the next platform with separation based on the current platform's rightmost pixel (don't worry, I commented the code so I should be able to remember). Anyway, there are still a few new bugs, but it seems to be working much more smoothly!
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run) | [Oppia](https://github.com/oppia/oppia/pull/2983) | [Hack ID](https://hackid.github.io/)
