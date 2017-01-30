@@ -143,3 +143,10 @@ MUST FIX!
 AND, talking through my problem with my tiny game, we isolated it to the jumping. Soooo... I was prepared to take the plunge this evening when I got home to try the other method, where only the player moves. I'd been dreading a complete refactor, but, after actually taking a good look at the methods in the Endless Runner book, I was able to successfully switch to the new methodology with a few relatively simple changes. The biggest hurdle I had to jump (pun intended?) was to figure out how to get my platforms to continue generating, now that the world bounds were no longer the measure. I ended up altering that check in update to check whether or not the last tile in a platform was in camera view. Then I updated the createPlatform method to create the next platform with separation based on the current platform's rightmost pixel (don't worry, I commented the code so I should be able to remember). Anyway, there are still a few new bugs, but it seems to be working much more smoothly!
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run) | [Oppia](https://github.com/oppia/oppia/pull/2983) | [Hack ID](https://hackid.github.io/)
+
+## Day 18: January 29, 2017
+**Today's Progress**: Tiny game
+
+**Thoughts:** Great big strides on my game today. I'm nearly done with it! Still not sure I'll get it out before the end of the month, but it's looking really good! Today I created a menu and new game over screen and made some UI changes using the elements from the same graphics pack the other assets are from. I also update my background to be parallax.
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
