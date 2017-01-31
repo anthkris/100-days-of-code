@@ -150,3 +150,10 @@ AND, talking through my problem with my tiny game, we isolated it to the jumping
 **Thoughts:** Great big strides on my game today. I'm nearly done with it! Still not sure I'll get it out before the end of the month, but it's looking really good! Today I created a menu and new game over screen and made some UI changes using the elements from the same graphics pack the other assets are from. I also update my background to be parallax.
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
+
+## Day 19: January 30, 2017
+**Today's Progress**: Tiny game draft finished
+
+**Thoughts:** I really, really wanted the tiny game to be published this month and, though there are still some teeny, tiny things that could be smoothed out, the game is feature complete and I'm shipping today!!!
+
+**Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
