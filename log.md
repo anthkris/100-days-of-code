@@ -157,3 +157,10 @@ AND, talking through my problem with my tiny game, we isolated it to the jumping
 **Thoughts:** I really, really wanted the tiny game to be published this month and, though there are still some teeny, tiny things that could be smoothed out, the game is feature complete and I'm shipping today!!!
 
 **Link to work:** [Supply Run Game](https://github.com/anthkris/supply-run)
+
+## Day 20: January 31, 2017
+**Today's Progress**: Start a new tiny game and kinda begin next Oppia issue
+
+**Thoughts:** I got super inspired by this simple game I love from McFunkyPants, [Fantasy Strategy Map game](http://mcfunkypants.com/2012/fantasy-map-tactics/), so I decided to try and take that on with a twist. Also created a new branch to deal with the next batch of Oppia accessibility fixes but I didn't start on it yet.
+
+**Link to work:** [Capture the Court](https://github.com/anthkris/capture-the-court)
