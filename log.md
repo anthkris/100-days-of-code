@@ -164,3 +164,17 @@ AND, talking through my problem with my tiny game, we isolated it to the jumping
 **Thoughts:** I got super inspired by this simple game I love from McFunkyPants, [Fantasy Strategy Map game](http://mcfunkypants.com/2012/fantasy-map-tactics/), so I decided to try and take that on with a twist. Also created a new branch to deal with the next batch of Oppia accessibility fixes but I didn't start on it yet.
 
 **Link to work:** [Capture the Court](https://github.com/anthkris/capture-the-court)
+
+## Day 21: February 1, 2017
+**Today's Progress**: Work on Oppia accessibility
+
+**Thoughts:** I spent most of my work time today working on the final accessibility issue in the audit (Still some other, separate issues outstanding, but this would be the last of the smaller issues) around tab focusing. Interestingly, as I started trying to navigate the site with just the keyboard, I ran into quite a lot of elements that weren't in the tab order (tabindex="0" helps with that) and some other related issues around opening dropdown menus with a keypress, which may be more complex than they first appear.
+
+I also ran into some trouble with trying to randomly generate a map for my Capture the Court game. I'm considering just drawing a single map and focusing on the game play... It might be a good idea to make the game even more tiny.
+**Link to work:** Haven't even commited yet ;)
+
+## Day 22: February 2, 2017
+**Today's Progress**: Reviewing Accessibility Issue
+
+**Thoughts:** Not much work today, I admit. I had a chat with the owner of an ID/elearning dev company about doing some contract work with them in the future. He suggested that I learn ReactJS and Unity which they use for their projects. I'm a little conflicted on just abandoning Phaser for Unity... I'm thinking maybe I can finish my current project and then do the next one in Unity? I'm also seriously investigating going my own brand of nuclear and going part time on my job to delve further into freelance. Lots of things to think about!
+**Link to work:** Haven't even commited yet ;)
