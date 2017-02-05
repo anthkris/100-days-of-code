@@ -178,3 +178,17 @@ I also ran into some trouble with trying to randomly generate a map for my Captu
 
 **Thoughts:** Not much work today, I admit. I had a chat with the owner of an ID/elearning dev company about doing some contract work with them in the future. He suggested that I learn ReactJS and Unity which they use for their projects. I'm a little conflicted on just abandoning Phaser for Unity... I'm thinking maybe I can finish my current project and then do the next one in Unity? I'm also seriously investigating going my own brand of nuclear and going part time on my job to delve further into freelance. Lots of things to think about!
 **Link to work:** Haven't even commited yet ;)
+
+## Day 23: February 3, 2017
+**Today's Progress**: Tackling Oppia Accessibility
+
+**Thoughts:** I did quite a lot of work on the Oppia Accesibility issue. In this commit, I focused a lot on focus styles and tab order to make it easier to navigate the learner-focused pages via keyboard.
+
+Also resigned my job. You know, no big deal... (NOT!)
+**Link to work:** N/A
+
+## Day 24: February 4, 2017
+**Today's Progress**: Tackling Oppia Accessibility
+
+**Thoughts:** I kept working on my tab focus issues. This time, I tacked some issues on creating an alt attribute for the user profile avatar, and I noticed several other issues with keyboard accessibility in the exploration in particular, as well as with dropdown menus. I got to thinking that these may be in the realm of the advanced accessibility check I was going to start, so I just created some other issues for them. Submitted a PR on my work so far.
+**Link to work:** [Oppia PR](https://github.com/oppia/oppia/pull/3024)
