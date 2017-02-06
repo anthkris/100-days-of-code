@@ -192,3 +192,9 @@ Also resigned my job. You know, no big deal... (NOT!)
 
 **Thoughts:** I kept working on my tab focus issues. This time, I tacked some issues on creating an alt attribute for the user profile avatar, and I noticed several other issues with keyboard accessibility in the exploration in particular, as well as with dropdown menus. I got to thinking that these may be in the realm of the advanced accessibility check I was going to start, so I just created some other issues for them. Submitted a PR on my work so far.
 **Link to work:** [Oppia PR](https://github.com/oppia/oppia/pull/3024)
+
+## Day 25: February 5, 2017
+**Today's Progress**: Tackling Oppia Accessibility
+
+**Thoughts:** Had a good little meeting with my Oppia/Programming mentor, so I spent some time looking at projects I'll be helping with for Google Summer of Code. He also talked to me about how to make my issues better so people could immediately start work. It was all super good stuff.
+**Link to work:** Was refactoring issues to be more user-friendly
