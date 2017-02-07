@@ -198,3 +198,9 @@ Also resigned my job. You know, no big deal... (NOT!)
 
 **Thoughts:** Had a good little meeting with my Oppia/Programming mentor, so I spent some time looking at projects I'll be helping with for Google Summer of Code. He also talked to me about how to make my issues better so people could immediately start work. It was all super good stuff.
 **Link to work:** Was refactoring issues to be more user-friendly
+
+## Day 26: February 6, 2017
+**Today's Progress**: Building a Twitter Bot
+
+**Thoughts:** Building a bot is something I've wanted to play around with for a while and [FCC had a nice tutorial on how to build a Twitter bot with Node JS](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.1wintxina). I know tutorials aren't meant to count, but I spent a considerable amount of time figuring out how to add a new feature where my bot will tweet out project ideas to anyone who tweets at it. 
+**Link to work:** [Go LX Design Something Repo](https://github.com/anthkris/GoLXDesignSomething)
