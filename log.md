@@ -203,4 +203,14 @@ Also resigned my job. You know, no big deal... (NOT!)
 **Today's Progress**: Building a Twitter Bot
 
 **Thoughts:** Building a bot is something I've wanted to play around with for a while and [FCC had a nice tutorial on how to build a Twitter bot with Node JS](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.1wintxina). I know tutorials aren't meant to count, but I spent a considerable amount of time figuring out how to add a new feature where my bot will tweet out project ideas to anyone who tweets at it. 
-**Link to work:** [Go LX Design Something Repo](https://github.com/anthkris/GoLXDesignSomething)
+**Link to work:** [Go LX Design Something Repo](https://github.com/anthkris/Go-LX-Design-Something)
+
+## Day 27: February 7, 2017
+**Today's Progress**: Building a Twitter Bot and Oppia Fixes
+
+**Thoughts:** I did very few Oppia fixes today. Mostly I was just confused by the feedback so I asked for clarification. I finished the second bit of the Twitter bot and after much consternation (realizing that I had put my Twitter developer keys out there!!!) I deleted my original github repo and started over. Which meant that I had to retackle an issue where a folder was showing up as a submodule in my repo. 
+
+I'm ignorant of submodules. My understanding is that their main advantage is being able to point to another repo and get the updates, in cases where you are using code from that repo, without your having to duplicate fixes every time. This makes sense but it freaked me out a little, so I had to figure out how to undo this. I used suggestion 1 of the first answer in [this StackOverflow question](http://stackoverflow.com/questions/1759587/un-submodule-a-git-submodule/1789374#1789374). 
+
+But now it keeps crashing.
+**Link to work:** [Go LX Design Something Repo](https://github.com/anthkris/Go-LX-Design-Something)
