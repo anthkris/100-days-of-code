@@ -214,3 +214,19 @@ I'm ignorant of submodules. My understanding is that their main advantage is bei
 
 But now it keeps crashing.
 **Link to work:** [Go LX Design Something Repo](https://github.com/anthkris/Go-LX-Design-Something)
+
+## Day 28: February 8, 2017
+**Today's Progress**: Fixing the Twitter Bot that Jack Build
+
+**Thoughts:** I kept fiddling and fiddling, determined to make this thing work. And I figured out that I needed to change the procfile and then enable different dynos. More on exactly what I did will come in a post next Tuesday. So everything seems to be working great!
+
+**Link to work:** [Go LX Design Something Repo](https://github.com/anthkris/Go-LX-Design-Something)
+
+## Day 29: February 9, 2017
+**Today's Progress**: Back to the game drawing board
+
+**Thoughts:** I realized that the game I was trying to build was a bit too advanced for me as yet, plus I didn't have a good, solid idea of what I wanted the game play to look like. So I decided to take it back a few steps. I spent some time updating the game repo's ReadMe with more ideas. Right now, I'm looking at a Twine RPG, that I can maybe turn into a Phaser RPG at some point. It's been really tough for me to finish narrative based games, but if I think about this as an RPG and less about story, I might be able to get 'er done.
+
+Also, in Twitter bot land, I updated the search queries to include seriousgames so as to broaden my search.
+
+**Link to work:** [Capture the Court Repo](https://github.com/anthkris/capture-the-court/blob/master/README.md)
