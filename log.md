@@ -230,3 +230,19 @@ But now it keeps crashing.
 Also, in Twitter bot land, I updated the search queries to include seriousgames so as to broaden my search.
 
 **Link to work:** [Capture the Court Repo](https://github.com/anthkris/capture-the-court/blob/master/README.md)
+
+## Day 30: February 10, 2017
+**Today's Progress**: Working on my second job
+
+**Thoughts:** I had a chat with my contract team and I'm slated to do a big presentation on instructional design on Monday. I opted to go with a new presentation deck I saw, the web-based [Webslides](https://webslides.tv/). I began by sketching out the first several slides, after which I got into a good flow. It was mostly html and CSS, though I also included a jQuery plugin to help me zoom and pan around a big mindmap image. I'm really happy with the end result.
+
+**Link to work:** [My Preso](https://anthkris.github.io/teachcs-webslides/)
+
+## Day 31: February 11, 2017
+**Today's Progress**: MOAR Oppia Accessibility
+
+**Thoughts:** This basic accessibility thing is one of those projects that seems like it should be simple, but once you start testing it, it isn't. But, I also think I'm moving into advanced accessibility territory as I'm discovering little issues with navigating the learner-facing pages with the keyboard. Fortunately, the issues aren't super hard, it's just that it's a bit like playing whack-a-mole. The more issues I solve, the more issues pop up as I continue to test the keyboard nav. In the end, it's a good thing because we're rooting up important issues, but it's a bit exhausting.
+
+I also went to an FCC meetup in the morning, which I, unfortunately, did not enjoy at all. It was too noisy and there was too much talking and I couldn't get any work done. After that, I felt pretty drained, so I ended up skipping the meetup I actually did want to go to, which was later in the day. I went out for lunch and shopping with my mum instead, which was very nice. Sometimes, I do get the feeling that I work too hard... Not sure if I'll be trying the FCC meetup again.
+
+**Link to work:** [Oppia PR](https://github.com/oppia/oppia/pull/3024)
