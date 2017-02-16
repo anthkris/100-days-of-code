@@ -246,3 +246,12 @@ Also, in Twitter bot land, I updated the search queries to include seriousgames 
 I also went to an FCC meetup in the morning, which I, unfortunately, did not enjoy at all. It was too noisy and there was too much talking and I couldn't get any work done. After that, I felt pretty drained, so I ended up skipping the meetup I actually did want to go to, which was later in the day. I went out for lunch and shopping with my mum instead, which was very nice. Sometimes, I do get the feeling that I work too hard... Not sure if I'll be trying the FCC meetup again.
 
 **Link to work:** [Oppia PR](https://github.com/oppia/oppia/pull/3024)
+
+## Day 32: February 15, 2017
+**Today's Progress**: MOAR Oppia Accessibility
+
+**Thoughts:** Am I cheating? I don't know. It's been a crazy couple of days, trying to finish out tasks for my final days as an wage earner. I am freaking out a bit, but I think I'll be fine.
+
+Finally finished up my basic accessibility tasks. My next step is actually to take a course on accessibility from [Egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today), which I'm hoping will help me to better understand how to test with Voice Over, because right now, I'm feeling very lost... which I guess is the point. If the website isn't accessible, not being able to see the screen makes it difficult to navigate.
+
+**Link to work:** [Oppia PR](https://github.com/oppia/oppia/pull/3024)
