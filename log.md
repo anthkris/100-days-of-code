@@ -255,3 +255,9 @@ I also went to an FCC meetup in the morning, which I, unfortunately, did not enj
 Finally finished up my basic accessibility tasks. My next step is actually to take a course on accessibility from [Egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today), which I'm hoping will help me to better understand how to test with Voice Over, because right now, I'm feeling very lost... which I guess is the point. If the website isn't accessible, not being able to see the screen makes it difficult to navigate.
 
 **Link to work:** [Oppia PR](https://github.com/oppia/oppia/pull/3024)
+## Day 33: February 16, 2017
+**Today's Progress**: Random Stuff
+
+**Thoughts:** Added a couple of resources to Hack ID. Also took part of that accessibility course I mentioned last update to teach me how to actually use VoiceOver. So that should be helpful. And now, as much as I really like my Capture the Court idea, I find myself struggling with it, I think because it's writing now. Part of me is telling myself to struggle through it because I think it can be a good game; but part of me is saying to scrap it for now. 
+
+**Link to work:** [Hack ID](https://github.com/hackid/hackid.github.io)
